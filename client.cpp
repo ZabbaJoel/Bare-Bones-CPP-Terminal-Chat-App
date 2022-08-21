@@ -9,6 +9,7 @@
 
 using namespace std;
 
+//For the terminal input, input the IP address of the computer hosting the server
 int main(int argc, char* argv[]) {
     
     // Create a socket
